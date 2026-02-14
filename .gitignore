@@ -1,0 +1,30 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Backend
+Back-End/venv/
+Back-End/__pycache__/
+Back-End/*.pyc
+Back-End/.env
+Back-End/sql_app.db
+Back-End/chroma_db/
+Back-End/uploads/*
+!Back-End/uploads/.gitkeep
+Back-End/debug_log.txt
+Back-End/models_list.txt
+
+# Frontend
+Front-End/node_modules/
+Front-End/dist/
+Front-End/build/
+Front-End/.env
+Front-End/.env.local
+Front-End/.env.*.local
+Front-End/*.log
+Front-End/.vite/
+Front-End/*.tsbuildinfo
+Front-End/.vercel/
+Front-End/.eslintcache

@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+chromadb
+openai
+python-dotenv
+tenacity
+google-genai
+google-api-core
+sentence-transformers
+fastapi-mail
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==3.2.2
